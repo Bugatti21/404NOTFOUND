@@ -1,0 +1,12 @@
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.page-text {
+    display: flex;
+}
+
+main {
+    display: flex;
+}
